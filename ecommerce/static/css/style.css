@@ -1,0 +1,23 @@
+body
+{
+background-color:#31c7cc;
+font-family: "Zilla Slab", serif;
+  font-weight: 300;
+  font-style:normal;
+}
+.navbar-light  .navbar-nav .navbar-link {
+   color:black;
+}
+.footer
+{
+height:45px;
+width:100%;
+background-color:lightgrey;
+position:fixed;
+bottom:0;
+left:0;
+text-align:center;
+}
+.form-control
+{
+width:75%;}
